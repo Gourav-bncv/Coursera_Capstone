@@ -1,4 +1,4 @@
-The parameter to select the business venture will involve way lot of details and data study but for our exercise let’s consider below must have information in our data  -
+The parameter to select the business venture will involve way lot of data study but for our exercise let’s consider below must have information in our data  -
 •	Current restaurant type
 
 •	Restaurant ratings and reviews
@@ -6,12 +6,12 @@ The parameter to select the business venture will involve way lot of details and
 •	Transportation information like Airport or Bus service
 
 •	Other nearby venue details like
-    o   Hospital
+    o Hospital
     o	Gym
     o	Historic Site
     o	Hostel
     o	Hotel
     o	Shopping Mall
     
-Using Four Square location data, the neighborhood should be assessed on above parameters to decide upon the ideal business venture for a particular neighborhood.
+Using Four Square location data, we could get answer to all of these deciding factors. The location data will contain all the restaurant and other place information pertaining to a particular location. We need to cleanse, massage, group and cluster the information to assess above parameters to decide upon the ideal business venture for a particular neighborhood.
 
